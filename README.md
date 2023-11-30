@@ -12,4 +12,4 @@ The dataset used for training and validation consists of images of rock, paper, 
 - Jupyter Notebook
 
 ## Model Architecture
-The deep learning model is designed using a Convolutional Neural Network (CNN) architecture. It includes layers for convolution, pooling, and fully connected networks to extract features and make predictions.
+The deep learning model is designed using a Convolutional Neural Network (CNN) architecture. It includes layers for convolution, pooling, and fully connected networks to extract features and make predictions. This model use 3 hidden layer.
